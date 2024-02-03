@@ -17,7 +17,7 @@ They  had:
  - Live sensor plot graphs
 ```
 
-Those mobile and Windows apps will be released to public in Q1 2024. Then I want to go back to native Android Development because _Android itself excites me the most_!
+Those mobile and Windows apps will be released to public in Q1 2024. Then I may go back to native Android Development because _Android itself excites me the most_!
 
 https://www.linkedin.com/in/rasit-arslan/
 

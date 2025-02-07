@@ -13,11 +13,10 @@ They  had:
  - Bluetooth Classic communication
  - Bluetooth Low Energy communication
  - State management(Bloc & Provider)
- - C++ native code for Windows
+ - Hand-written C++ native code for Windows
  - Live sensor plot graphs
 ```
 
-Those mobile and Windows apps will be released to public in Q1 2024. Then I may go back to native Android Development because _Android itself excites me the most_!
 
 https://www.linkedin.com/in/rasit-arslan/
 

@@ -5,7 +5,7 @@ I started to learn programming in June 2022. My goal was to be an Android Dev so
 
 After a few months, I applied and got accepted to the "[Oyun ve Uygulama Akademisi](https://oyunveuygulamaakademisi.com/)"(Game and Application Academia) program and so I started to learn **`Dart`** and **`Flutter`**. Since then, I keep practicing and making some apps here and there until [graduation](https://verified.sertifier.com/en/verify/61656387413922/). This effort got me a **_full-time job_** as a **Flutter Developer** in August 2023. 
 
-As part of my job, I made 1 Windows app and 1 mobile app(iOS & Android) for the company I worked at as the single Flutter Developer there. I made those apps **_all by myself_** end-to-end.
+As part of my job, I made 1 Windows app and 2 mobile apps(iOS & Android) for the company I worked at as the single Flutter Developer there. I made those apps **_all by myself_** end-to-end.
 They  had:
 ```
  - Firebase Authentication

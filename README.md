@@ -19,6 +19,7 @@ They  had:
 
 
 https://www.linkedin.com/in/rasit-arslan/
+https://medium.com/@rasitarslan95
 
 
 <!--
